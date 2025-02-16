@@ -1,0 +1,66 @@
+
+.sec-1{
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    
+}
+.sec-2__a{
+    border: solid black 3px;
+    display: inline-block;
+    align-items:center;
+    
+}
+.sec-2__b{
+    border: solid black 3px;
+    display: inline-block;
+    text-align:center;
+    
+}
+.sec-2__c{
+    border: solid black 3px;
+    display: inline-block;
+    text-align:center;
+}
+.sec-2__d{
+    border: solid black 3px;
+    display: inline-block;
+    text-align:center;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.container{
+    text-align: center;
+}
+.container img{
+    flex-basis: auto;
+    flex-wrap: wrap;
+}
+.sec-3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+
+.contact__send{
+    background-color: yellow;
+    color: black;
+    border:none;
+    diaplay:inline-block;
+    padding-left:200px;
+    padding-right: 200px;
+    text-align: center;
+}
+.sec-3,.sec-3__contact{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
